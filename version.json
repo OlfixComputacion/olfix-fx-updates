@@ -1,0 +1,7 @@
+{
+  "version": "3.6.0-beta",
+  "releaseDate": "2026-06-08",
+  "downloadUrl": "https://github.com/olfixcomputacion/olfix-fx-updates/releases/download/v3.6.0-beta/OlfixFX-v3.6.0-beta.zip",
+  "releaseNotes": "Sistema de actualizaciones automáticas: detección, notificación y descarga de nuevas versiones.",
+  "minRequiredVersion": "0.0.0"
+}
