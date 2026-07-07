@@ -1,7 +1,7 @@
 {
-  "version": "3.8.7",
+  "version": "3.8.8",
   "releaseDate": "2026-07-07",
-  "downloadUrl": "https://github.com/olfixcomputacion/olfix-fx-updates/releases/download/v3.8.7/OlfixFX-v3.8.7.zip",
-  "releaseNotes": "Nueva version 3.8.7 disponible. Ver CHANGELOG para detalles.",
+  "downloadUrl": "https://github.com/olfixcomputacion/olfix-fx-updates/releases/download/v3.8.8/OlfixFX-v3.8.8.zip",
+  "releaseNotes": "Nueva version 3.8.8 disponible. Ver CHANGELOG para detalles.",
   "minRequiredVersion": "0.0.0"
 }
