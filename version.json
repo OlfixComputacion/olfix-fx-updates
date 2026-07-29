@@ -1,7 +1,7 @@
 {
-  "version": "4.2.0",
-  "releaseDate": "2026-07-27",
-  "downloadUrl": "https://github.com/olfixcomputacion/olfix-fx-updates/releases/download/v4.2.0/OlfixFX-v4.2.0.zip",
-  "releaseNotes": "Nueva version 4.2.0 disponible. Ver CHANGELOG para detalles.",
+  "version": "4.4.0",
+  "releaseDate": "2026-07-29",
+  "downloadUrl": "https://github.com/olfixcomputacion/olfix-fx-updates/releases/download/v4.4.0/OlfixFX-v4.4.0.zip",
+  "releaseNotes": "Nueva version 4.4.0 disponible. Ver CHANGELOG para detalles.",
   "minRequiredVersion": "0.0.0"
 }
